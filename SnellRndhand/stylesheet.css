@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SnellRoundhand Script';
+    src: url('SnellRoundhand-Script.woff2') format('woff2'),
+        url('SnellRoundhand-Script.woff') format('woff'),
+        url('SnellRoundhand-Script.svg#SnellRoundhand-Script') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
